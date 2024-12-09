@@ -6,6 +6,10 @@ Pathway is a fintech platform designed to **streamline the business financing pr
 
 
 
+https://github.com/user-attachments/assets/25d1232a-b182-45c1-be13-61decaa4a7c6
+
+
+
 ## Features:
 - 🔗 **API Integration** with top lenders
 - ⚡ **Fast and easy** loan comparisons
